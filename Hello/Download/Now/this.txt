@@ -1,1 +1,0 @@
-Hello I am using pure JavaScript and local host
